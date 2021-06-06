@@ -4,7 +4,7 @@
 /**
  * Admin bar with Vanilla JS, no external dependencies.
  *
- * @since 5.3.1
+ * @since 5.3.10
  *
  * @param {Object} document  The document object.
  * @param {Object} window    The window object.
